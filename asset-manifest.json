@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30ee69e5.chunk.css",
+    "main.js": "/static/js/main.c9d8ac23.chunk.js",
+    "main.js.map": "/static/js/main.c9d8ac23.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1bdc9327.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1bdc9327.js.map",
+    "static/js/2.ae278f34.chunk.js": "/static/js/2.ae278f34.chunk.js",
+    "static/js/2.ae278f34.chunk.js.map": "/static/js/2.ae278f34.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e9ba118e611b989bb98b947fef7da782.js": "/precache-manifest.e9ba118e611b989bb98b947fef7da782.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.30ee69e5.chunk.css.map": "/static/css/main.30ee69e5.chunk.css.map",
+    "static/js/2.ae278f34.chunk.js.LICENSE.txt": "/static/js/2.ae278f34.chunk.js.LICENSE.txt",
+    "static/media/enemyImage.png": "/static/media/enemyImage.2109cf92.png",
+    "static/media/enemyJump.png": "/static/media/enemyJump.903a2cc3.png",
+    "static/media/error.19314b5f.svg": "/static/media/error.19314b5f.svg",
+    "static/media/pikaBall.css": "/static/media/gameBgImage.9f70da51.png",
+    "static/media/github-logo.0c0d0a7b.svg": "/static/media/github-logo.0c0d0a7b.svg",
+    "static/media/myAvatar.svg": "/static/media/myAvatar.956fff99.svg",
+    "static/media/photography.6b3d4f65.svg": "/static/media/photography.6b3d4f65.svg",
+    "static/media/pika.2222b705.svg": "/static/media/pika.2222b705.svg",
+    "static/media/return.566b774d.svg": "/static/media/return.566b774d.svg",
+    "static/media/user.5fec04de.svg": "/static/media/user.5fec04de.svg",
+    "static/media/volleyball.png": "/static/media/volleyball.a6aa8462.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bdc9327.js",
+    "static/js/2.ae278f34.chunk.js",
+    "static/css/main.30ee69e5.chunk.css",
+    "static/js/main.c9d8ac23.chunk.js"
+  ]
+}
